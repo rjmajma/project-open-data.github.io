@@ -87,13 +87,14 @@ Your agency CIO is responsible for leading the open data initiative in your agen
 ####Q15: Are there any Federal Acquisition Regulation (FAR) provisions that might affect an agency’s authority to publish data provided as a contract deliverable?
 A: While the scope of work and other contractual language concerning the required deliverables will determine what data is delivered under a given contract, the rights that the government obtains to the data that is delivered are generally covered by one of a number of standard contract clauses. For civilian agencies, procedures for utilizing these clauses appear within FAR subpart 27.4 – Rights in Data and Copyrights ([48 C.F.R. 27.400 et. seq.,](https://acquisition.gov/far/current/html/FARTOCP27.html)). For the Department of Defense, contracting officers are instructed by the Defense Federal Acquisition Regulation Supplement (DFARS) to use the DFARS coverage in [subparts 227.71 and 227.72](http://www.acq.osd.mil/dpap/dars/dfarspgi/current/index.html) in lieu of the guidance in FAR subpart 27.4. Other agencies may have supplemental acquisitions regulations that apply.
 The procedures contained in both the FAR and the DFARS are designed to implement the policy principles expressed at FAR 27.402. Specifically: 
-(a) To carry out their missions and programs, agencies acquire or obtain access to many kinds of data produced during or used in the performance of their contracts. Agencies require data to—
-(1) Obtain competition among suppliers;
-(2) Fulfill certain responsibilities for disseminating and publishing the results of their activities;
-(3) Ensure appropriate utilization of the results of research, development, and demonstration activities including the dissemination of technical information to foster subsequent technological developments;
-(4) Meet other programmatic and statutory requirements; and
-(5) Meet specialized acquisition needs and ensure logistics support.
-(b) Contractors may have proprietary interests in data. In order to prevent the compromise of these interests, agencies shall protect proprietary data from unauthorized use and disclosure. The protection of such data is also necessary to encourage qualified contractors to participate in and apply innovative concepts to Government programs. In light of these considerations, agencies shall balance the Government’s needs and the contractor’s legitimate proprietary interests.
+
+  > (a) To carry out their missions and programs, agencies acquire or obtain access to many kinds of data produced during or used in the performance of their contracts. Agencies require data to—
+  		(1) Obtain competition among suppliers;
+  		(2) Fulfill certain responsibilities for disseminating and publishing the results of their activities;
+  		(3) Ensure appropriate utilization of the results of research, development, and demonstration activities including the dissemination of technical information to foster subsequent technological developments;
+  		(4) Meet other programmatic and statutory requirements; and
+  		(5) Meet specialized acquisition needs and ensure logistics support.
+   	(b) Contractors may have proprietary interests in data. In order to prevent the compromise of these interests, agencies shall protect proprietary data from unauthorized use and disclosure. The protection of such data is also necessary to encourage qualified contractors to participate in and apply innovative concepts to Government programs. In light of these considerations, agencies shall balance the Government’s needs and the contractor’s legitimate proprietary interests.
 
 While these clauses address the data rights obtained by an agency, decisions regarding whether data will be published will be made in accordance with Q9 above, involving, as appropriate, consultation among the agency CIO, general counsel, contracting personnel, security personnel and privacy personnel. 
  
